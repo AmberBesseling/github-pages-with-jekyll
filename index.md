@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my first attempt at making a blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+If I was still 16 years old, I probably would have made this a diary that no one would ever read.
